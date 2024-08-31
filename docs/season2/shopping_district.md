@@ -22,4 +22,4 @@ The mayor and minister of building decided they want a flexible shop system keep
 
 ## Currency
 
-This season, we're a little bit more flexible about the currency. **The owner of the shop decides what they want as a currency.** Most people like to use **Diamonds** or the less inflationary and fractional currency **Bitcoins**. You can invest in Bitcoin with the Villager at Spawn. You can also create your own currency if you want to. ☺️
+This season, we're a little bit more flexible about the currency. Currently we're using **diamonds** and **bitcoin** as stated in the rules you have to be able to pay with both currencies at your shop, this does not mean it has to be a fair price though. You can invest in Bitcoin with the Villager at Spawn. You can also create your own currency if you want to. ☺️
